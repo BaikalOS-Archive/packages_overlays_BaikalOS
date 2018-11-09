@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-package="com.aicp.overlay.accent.oxygen.android"
+package="ru.baikalos.overlay.accent.oxygen.android"
     android:versionCode="1"
     android:versionName="1.0">
 

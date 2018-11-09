@@ -6,7 +6,7 @@ my_path="$(dirname "$0")"
 . "$my_path"/generate_overlay.sh
 
 template="$my_path/accent_template"
-overlay_package="com.aicp.overlay.accent"
+overlay_package="ru.baikalos.overlay.accent"
 product_packages_makefile="$my_path/product_packages_accent.mk"
 
 function generate_accent() {
