@@ -1,3 +1,5 @@
+#!/bin/bash
+
 my_path="$(dirname "$0")"
 
 function remove_tag() {
