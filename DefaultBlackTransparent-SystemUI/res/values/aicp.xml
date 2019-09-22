@@ -2,7 +2,7 @@
 
 <resources>
 
-    <!-- Helper colors for AICP theming -->
+    <!-- Helper colors for BaikalOS theming -->
     <color name="qs_fg_for_transparent_primary">@*android:color/primary_text_default_material_dark</color>
     <color name="qs_fg_for_transparent_secondary">@*android:color/secondary_text_default_material_dark</color>
     <color name="qs_fg_for_transparent_tertiary">#80ffffff</color>

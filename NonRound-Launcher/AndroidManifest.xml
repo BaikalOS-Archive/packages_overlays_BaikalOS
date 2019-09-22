@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-package="com.aicp.overlay.nonround.com.android.launcher3"
+package="com.baikalos.overlay.nonround.com.android.launcher3"
     android:versionCode="1"
     android:versionName="1.0">
 

@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-package="com.aicp.overlay.defaultdark.android"
+package="com.baikalos.overlay.defaultdark.android"
     android:versionCode="1"
     android:versionName="1.0">
 

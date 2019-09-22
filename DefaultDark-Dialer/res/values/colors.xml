@@ -170,7 +170,7 @@ packages/apps/InCallUI (moved: packages/apps/Dialer/InCallUI)
 
     <color name="dialer_secondary_text_color">#b3ffffff</color>
 
-    <!-- https://gerrit.aicp-rom.com/c/AICP/packages_apps_Dialer/+/77099 -->
+    <!-- https://gerrit.baikalos-rom.com/c/BaikalOS/packages_apps_Dialer/+/77099 -->
     <color name="dialer_toolbar_title_text">#ffffffff</color>
     <color name="dialer_toolbar_subtitle_text">#b3ffffff</color>
 </resources>
