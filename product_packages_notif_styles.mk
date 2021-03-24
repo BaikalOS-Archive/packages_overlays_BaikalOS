@@ -11,3 +11,13 @@ PRODUCT_PACKAGES += \
     NotifDark-System-NotifDark-SystemUI-TransparentBlack75 \
     NotifLight-SystemUI-TransparentWhite \
     NotifLight-System-NotifLight-SystemUI-TransparentWhite \
+    NotifLight-SystemUI-Gray \
+    NotifLight-System-NotifLight-SystemUI-Gray \
+    NotifLight-SystemUI-TransparentGray50 \
+    NotifLight-System-NotifLight-SystemUI-TransparentGray50 \
+    NotifLight-SystemUI-TransparentGray75 \
+    NotifLight-System-NotifLight-SystemUI-TransparentGray75 \
+    NotifLight-SystemUI-TransparentBlack50 \
+    NotifLight-System-NotifLight-SystemUI-TransparentBlack50 \
+    NotifLight-SystemUI-TransparentBlack75 \
+    NotifLight-System-NotifLight-SystemUI-TransparentBlack75 \

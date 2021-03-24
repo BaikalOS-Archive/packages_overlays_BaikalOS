@@ -22,4 +22,20 @@
     <dimen name="config_dialogCornerRadius">?dialogCornerRadius</dimen>
     <!-- Corner radius for bottom sheet system dialogs -->
     <dimen name="config_bottomDialogCornerRadius">?bottomDialogCornerRadius</dimen>
+
+    <dimen name="corner_size">?dialogCornerRadius</dimen>
+    <dimen name="pip_corner_radius">?dialogCornerRadius</dimen>
+    <dimen name="control_corner_radius">?dialogCornerRadius</dimen>
+    <dimen name="notification_shadow_radius">?dialogCornerRadius</dimen>
+    <dimen name="rect_button_radius">?dialogCornerRadius</dimen>
+
+    <dimen name="control_corner_material">?dialogCornerRadius</dimen>
+    <dimen name="progress_bar_corner_material">?dialogCornerRadius</dimen>
+    <dimen name="subtitle_corner_radius">?dialogCornerRadius</dimen>
+    <dimen name="subtitle_shadow_radius">?dialogCornerRadius</dimen>
+    <dimen name="dialog_corner_radius">?dialogCornerRadius</dimen>
+    <dimen name="chooser_corner_radius">?dialogCornerRadius</dimen>
+    <dimen name="default_magnifier_corner_radius">?dialogCornerRadius</dimen>
+    <dimen name="tooltip_corner_radius">?dialogCornerRadius</dimen>
+
 </resources>
