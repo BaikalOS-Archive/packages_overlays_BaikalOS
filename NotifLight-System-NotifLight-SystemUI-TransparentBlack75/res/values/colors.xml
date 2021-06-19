@@ -2,8 +2,12 @@
 <resources>
 
     <color name="notification_material_background_color">#b3000000</color>
-    <color name="notification_default_color_light">#ddffffff</color>
-    <color name="notification_primary_text_color_light">#ddffffff</color>
-    <color name="notification_secondary_text_color_light">#ddffffff</color>
+
+    <color name="notification_default_color_light">#d3ffffff</color>
+    <color name="notification_primary_text_color_light">#d3ffffff</color>
+    <color name="notification_secondary_text_color_light">#d3ffffff</color>
+    <color name="notification_default_color_dark">#d3ffffff</color>
+    <color name="notification_primary_text_color_dark">#d3ffffff</color>
+    <color name="notification_secondary_text_color_dark">#d3ffffff</color>
 
 </resources>

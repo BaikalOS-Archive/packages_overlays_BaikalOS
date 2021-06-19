@@ -32,9 +32,4 @@
     <color name="notification_section_clear_all_btn_color">#9E9E9E</color>
     <color name="notification_channel_dialog_separator">#616161</color>
 
-    <!-- The color of the background in the top part of QSCustomizer -->
-    <color name="qs_customize_background">@*android:color/material_grey_900</color>
-
-    <!-- The color of the background in the bottom part of QSCustomizer -->
-    <color name="qs_customize_decoration">@*android:color/material_grey_800</color>
 </resources>

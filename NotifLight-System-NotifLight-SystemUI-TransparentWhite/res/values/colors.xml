@@ -3,4 +3,11 @@
 
     <color name="notification_material_background_color">#b3ffffff</color>
 
+    <color name="notification_default_color_light">#de000000</color>
+    <color name="notification_primary_text_color_light">#de000000</color>
+    <color name="notification_secondary_text_color_light">#de000000</color>
+    <color name="notification_default_color_dark">#de000000</color>
+    <color name="notification_primary_text_color_dark">#de000000</color>
+    <color name="notification_secondary_text_color_dark">#de000000</color>
+
 </resources>
