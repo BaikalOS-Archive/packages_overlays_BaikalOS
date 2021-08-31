@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="notification_material_background_color">#80606060</color>
+    <color name="notification_material_background_color">#60606060</color>
 
     <color name="notification_default_color_light">#d3ffffff</color>
     <color name="notification_primary_text_color_light">#d3ffffff</color>
